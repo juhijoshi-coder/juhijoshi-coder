@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @juhijoshi-coder
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on front-end project 
+- 💞️ I’m looking to collaborate on full-stack projects 
 - 📫 How to reach me juhirameshjoshi1967@gmail.com
 
 <!---
