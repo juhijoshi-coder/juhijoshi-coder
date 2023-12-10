@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @juhijoshi-coder
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning swift
+- 🌱 I’m currently learning Java
 - 📫 How to reach me juhirameshjoshi1967@gmail.com
 
 <!---
