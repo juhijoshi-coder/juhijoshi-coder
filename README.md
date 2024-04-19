@@ -51,12 +51,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
 </p>
 
-<!-- Add GitHub Stats with custom language colors -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juhijoshi-coder&show_icons=true&count_private=true&theme=radical&langs_count=10&langs_count_private=true&langs_percent=true&hide=html,css" alt="GitHub Stats">
-</p>
-
-
 <!-- Add a dynamically generated top languages section with matching background color -->
 <p align="center" style="background: #667eea; padding: 20px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juhijoshi-coder&layout=compact&bg_color=667eea&title_color=ffffff&text_color=ffffff" alt="Top Languages">
